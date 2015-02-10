@@ -35,16 +35,19 @@ Related Modeling Packages
 
 For teaching discrete event M&S there are many packages including Arena and Simio. 
 In years gone by, we would use GPSS and SIMSCRIPT. For teaching continuous-time
-simulation (sometimes with combined continuous/discrete support), we have visual languages
-such as MATLAB SimuLink, Modelica, LabView, Wolfram SystemsModeler, and Ptolemy. However, these 
-languages are suited to teaching dynamic systems within engineering disciplines. The idea
-behind MaxSim is to cover the same material but within a creative art/design-driven,
+simulation (sometimes with combined continuous/discrete support), we have visual 
+languages such as MATLAB SimuLink, Modelica, LabView, Wolfram SystemsModeler, 
+and Ptolemy. However, these languages are suited to teaching dynamic systems 
+within engineering disciplines. The idea behind MaxSim is to cover the same 
+systems-focused abstract material using a creative art/design-driven,
 multimedia-centric, approach.
 
 Further Reading
 
 Fishwick, P. Simulation Model Design and Execution: Building
 Digital Worlds, Prentice Hall 1994.
+
+Fishwick, P., Ed., Aesthetic Computing, MIT Press 2006.
 
 
 
